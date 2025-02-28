@@ -17,7 +17,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Suas estatísticas](https://github-readme-stats.vercel.app/api?username=biog4m3&show_icons=true&theme=radical)
 ![Suas estatísticas](https://github-readme-stats-igmrxbnho-biog4m3s-projects.vercel.app/api?username=fabio-teles06&show_icons=true&theme=radical)
 
 
