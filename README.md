@@ -5,7 +5,7 @@
 🔹 Explorando novas tecnologias.
 🔹 Focado em criar sistemas mobile, web e desktop.
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias & Ferramentas que mais uso
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fabio-teles-2ba826278)
 - 📧 [E-mail](mailto:fabio.teles06@outlook.com)
-- 🌎 [Meu Site](https://biog4m3.github.io)
+- 🌎 [Meu Site](https://fabio-teles.vercel.app)
 
 ---
 
